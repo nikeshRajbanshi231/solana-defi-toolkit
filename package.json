@@ -1,0 +1,48 @@
+{
+  "name": "solana-defi-toolkit",
+  "version": "1.2.0",
+  "description": "Solana DeFi Toolkit - Portfolio tracker, yield optimizer, and trading utilities for Solana",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "build": "npm run start",
+    "postinstall": "node src/lib/setup.js"
+  },
+  "keywords": [
+    "solana",
+    "defi",
+    "toolkit",
+    "portfolio",
+    "yield",
+    "trading",
+    "raydium",
+    "orca",
+    "jupiter",
+    "crypto",
+    "web3",
+    "blockchain"
+  ],
+  "author": "SolanaTools <tools@solanadev.io>",
+  "license": "MIT",
+  "dependencies": {
+    "@solana/web3.js": "^1.87.6",
+    "@solana/spl-token": "^0.3.9",
+    "@metaplex-foundation/js": "^0.19.5",
+    "dotenv": "^16.3.1",
+    "chalk": "^4.1.2",
+    "inquirer": "^8.2.6",
+    "ora": "^5.4.1",
+    "axios": "^1.6.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/solana-tools/defi-toolkit"
+  }
+}
